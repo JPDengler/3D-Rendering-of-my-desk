@@ -1,5 +1,6 @@
-## Reflection on Project Work
-
+![Project Screenshot](https://github.com/JPDengler/3D-Rendering-of-my-desk/blob/main/Project%20Screenshot.png)
+![Project Screenshot](https://github.com/JPDengler/3D-Rendering-of-my-desk/blob/main/ReferenceImage.jpg)
+## Reflection on Project
 1. **Approach to Designing Software**
    - My approach to designing software involved a combination of careful planning, creativity, and attention to detail.
      I started by defining the requirements and objectives of the project, considering both functional and aesthetic aspects.
