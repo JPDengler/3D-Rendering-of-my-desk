@@ -1,3 +1,5 @@
+### OpenGL C++ Rendering of my desk
+
 ![Project Screenshot](https://github.com/JPDengler/3D-Rendering-of-my-desk/blob/main/Project%20Screenshot.png)
 ![Project Screenshot](https://github.com/JPDengler/3D-Rendering-of-my-desk/blob/main/ReferenceImage.jpg)
 ## Reflection on Project
